@@ -1,0 +1,27 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Paris", "London", "Rome"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Mars"
+    },
+    {
+        "question": "Who painted the famous artwork 'The Starry Night'?",
+        "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+        "answer": "Vincent van Gogh"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Ag", "Au", "Hg", "Pb"],
+        "answer": "Au"
+    },
+    {
+        "question": "Which author wrote the famous novel 'To Kill a Mockingbird'?",
+        "options": ["F. Scott Fitzgerald", "Harper Lee", "Jane Austen", "J.K. Rowling"],
+        "answer": "Harper Lee"
+    }
+]
